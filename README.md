@@ -94,7 +94,7 @@ Dashboard screenshots are available in the `screenshots` folder of this reposito
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Stack
 
 - Python  
 - Pandas  
@@ -121,7 +121,7 @@ This project demonstrates how environmental data can support:
 ## 👤 Author
 
 **Oluwasegun Raphael**  
-Data Analyst | Data Science Enthusiast  
+Data Analyst & Consultant  
 
 ---
 
