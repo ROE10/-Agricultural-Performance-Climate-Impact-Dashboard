@@ -1,5 +1,13 @@
 # 🌾 Agricultural Performance & Climate Impact Analysis  
-### Data-Driven Insights from the Maji Ndogo Dataset
+
+![Python](https://img.shields.io/badge/Python-Analysis-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Prep-lightgrey?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Math%20Lib-orange?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Lib-lightblue?logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple?logo=seaborn)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-darkgreen)
 
 ---
 
